@@ -13,4 +13,4 @@ I had several drawbacks in 2018 FA, including
 
 
 
-Before entering college, the only thing I knew is how to insert a graph to Microsoft Word or how to do sorting in Microsoft Excel. I came to USTC in 2018-09 and studied C in 2018 FA. My teacher was Weibing Gu (顾为兵) and we usually called her 'Grandma Gu'. Thank her a lot for bringing me into the gate of programming.
+Before entering college, the only thing I knew was how to insert a graph to Microsoft Word or how to do sorting in Microsoft Excel. I came to USTC in 2018-09 and studied C in 2018 FA. My teacher was Weibing Gu (顾为兵) and we usually called her 'Grandma Gu'. Thank her a lot for bringing me into the gate of programming.
